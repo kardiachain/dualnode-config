@@ -132,6 +132,15 @@
         "avatar": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/ff706ec9AF6C5C89059479c24068bCd8AaE8E1Fa.png",
         "decimals": 18,
         "universalSymbol": "MOWA"
+      },
+      {
+        "id": "0xd8347e9078Ca7F41Ad017fD74B9b6396E6068d9b",
+        "address": "0xd8347e9078Ca7F41Ad017fD74B9b6396E6068d9b",
+        "name": "DareNFT",
+        "symbol": "DNFT",
+        "avatar": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/d8347e9078Ca7F41Ad017fD74B9b6396E6068d9b.png",
+        "decimals": 18,
+        "universalSymbol": "DNFT"
       }
     ],
     "otherChainToken": {
@@ -206,6 +215,15 @@
         "decimals": 18,
         "universalSymbol": "MOWA",
         "avatar": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/ff706ec9AF6C5C89059479c24068bCd8AaE8E1Fa.png"
+      },
+      "0xd8347e9078Ca7F41Ad017fD74B9b6396E6068d9b": {
+        "id": "0x162C2332e92BE409254AC7c59aD559C16a3f506E",
+        "address": "0x162C2332e92BE409254AC7c59aD559C16a3f506E",
+        "name": "DareNFT",
+        "symbol": "DNFT",
+        "avatar": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/d8347e9078Ca7F41Ad017fD74B9b6396E6068d9b.png",
+        "decimals": 18,
+        "universalSymbol": "DNFT"
       }
     },
     "underlyingToken": {
@@ -244,6 +262,15 @@
         "avatar": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/ff706ec9AF6C5C89059479c24068bCd8AaE8E1Fa.png",
         "decimals": 18,
         "universalSymbol": "MOWA"
+      },
+      "0xd8347e9078Ca7F41Ad017fD74B9b6396E6068d9b": {
+        "id": "0xd8347e9078Ca7F41Ad017fD74B9b6396E6068d9b",
+        "address": "0xd8347e9078Ca7F41Ad017fD74B9b6396E6068d9b",
+        "name": "DareNFT",
+        "symbol": "DNFT",
+        "avatar": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/d8347e9078Ca7F41Ad017fD74B9b6396E6068d9b.png",
+        "decimals": 18,
+        "universalSymbol": "DNFT"
       }
     },
     "bridgeContractAddress": {
@@ -255,7 +282,8 @@
         "0x551A5dcAC57C66aA010940c2dcFf5DA9c53aa53b": "0x551A5dcAC57C66aA010940c2dcFf5DA9c53aa53b",
         "0x6CD689DefCA80f9F2CBED9D0C6f3B2Cf4abc4598": "0xb2C328Fb6D8377caeaFdA8a465b79C67b5EE2550",
         "0xF0051fd4758147F1749D1696C9266d047B4c43Fa": "0xea87546a5a40142B512EB78f73c4E20c300B69bb",
-        "0xff706ec9AF6C5C89059479c24068bCd8AaE8E1Fa": "0xBfE76DD2c642C5fF836262BaEbc7E32F06f1fAc2"
+        "0xff706ec9AF6C5C89059479c24068bCd8AaE8E1Fa": "0xBfE76DD2c642C5fF836262BaEbc7E32F06f1fAc2",
+        "0xd8347e9078Ca7F41Ad017fD74B9b6396E6068d9b": "0x364c6327D95Ce94533Fb27514AaFA269cC29225E"
       },
       "fromOtherChain": {
         "0xAF984E23EAA3E7967F3C5E007fbe397D8566D23d": "0xBb14e7905c663B176Aa4FF02Fd4E3688722d5856",
@@ -265,7 +293,8 @@
         "0x551A5dcAC57C66aA010940c2dcFf5DA9c53aa53b": "0xbB014967977FDEeD4f645DF4768A15932989fac1",
         "0x6CD689DefCA80f9F2CBED9D0C6f3B2Cf4abc4598": "0xb65ca9a3e710970473fd45d4dddd7b8f1253ce28",
         "0xF0051fd4758147F1749D1696C9266d047B4c43Fa": "0xc073B33d58f8FCD4ba5e5463eB073FD62ce2220e",
-        "0xff706ec9AF6C5C89059479c24068bCd8AaE8E1Fa": "0x1C3AD2a03940bE249846601Fd42edAF0c06825Ca"
+        "0xff706ec9AF6C5C89059479c24068bCd8AaE8E1Fa": "0x1C3AD2a03940bE249846601Fd42edAF0c06825Ca",
+        "0xd8347e9078Ca7F41Ad017fD74B9b6396E6068d9b": "0x664e2c13e42fa0f03f227520813b9b3751f74232"
       }
     },
     "defaultAsset": "0xAF984E23EAA3E7967F3C5E007fbe397D8566D23d"
