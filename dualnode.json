@@ -141,6 +141,15 @@
         "avatar": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/d8347e9078Ca7F41Ad017fD74B9b6396E6068d9b.png",
         "decimals": 18,
         "universalSymbol": "DNFT"
+      },
+      {
+        "id": "0x6ef238E9E8CD2A96740897761C18894Fc086B9d0",
+        "address": "0x6ef238E9E8CD2A96740897761C18894Fc086B9d0",
+        "name": "Mytheria",
+        "symbol": "MYRA",
+        "avatar": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/6ef238E9E8CD2A96740897761C18894Fc086B9d0.png",
+        "decimals": 18,
+        "universalSymbol": "MYRA"
       }
     ],
     "otherChainToken": {
@@ -224,6 +233,15 @@
         "avatar": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/d8347e9078Ca7F41Ad017fD74B9b6396E6068d9b.png",
         "decimals": 18,
         "universalSymbol": "DNFT"
+      },
+      "0x6ef238E9E8CD2A96740897761C18894Fc086B9d0": {
+        "id": "0x6ef238E9E8CD2A96740897761C18894Fc086B9d0",
+        "address": "0x6ef238E9E8CD2A96740897761C18894Fc086B9d0",
+        "name": "Mytheria",
+        "symbol": "MYRA",
+        "avatar": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/6ef238E9E8CD2A96740897761C18894Fc086B9d0.png",
+        "decimals": 18,
+        "universalSymbol": "MYRA"
       }
     },
     "underlyingToken": {
@@ -271,6 +289,15 @@
         "avatar": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/d8347e9078Ca7F41Ad017fD74B9b6396E6068d9b.png",
         "decimals": 18,
         "universalSymbol": "DNFT"
+      },
+      "0x6ef238E9E8CD2A96740897761C18894Fc086B9d0": {
+        "id": "0x6ef238E9E8CD2A96740897761C18894Fc086B9d0",
+        "address": "0x6ef238E9E8CD2A96740897761C18894Fc086B9d0",
+        "name": "Mytheria",
+        "symbol": "MYRA",
+        "avatar": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/6ef238E9E8CD2A96740897761C18894Fc086B9d0.png",
+        "decimals": 18,
+        "universalSymbol": "MYRA"
       }
     },
     "bridgeContractAddress": {
@@ -283,7 +310,8 @@
         "0x6CD689DefCA80f9F2CBED9D0C6f3B2Cf4abc4598": "0xb2C328Fb6D8377caeaFdA8a465b79C67b5EE2550",
         "0xF0051fd4758147F1749D1696C9266d047B4c43Fa": "0xea87546a5a40142B512EB78f73c4E20c300B69bb",
         "0xff706ec9AF6C5C89059479c24068bCd8AaE8E1Fa": "0xBfE76DD2c642C5fF836262BaEbc7E32F06f1fAc2",
-        "0xd8347e9078Ca7F41Ad017fD74B9b6396E6068d9b": "0x364c6327D95Ce94533Fb27514AaFA269cC29225E"
+        "0xd8347e9078Ca7F41Ad017fD74B9b6396E6068d9b": "0x364c6327D95Ce94533Fb27514AaFA269cC29225E",
+        "0x6ef238E9E8CD2A96740897761C18894Fc086B9d0": "0xaF8F030777ce6bD00301A4Fc285d513965634C3a"
       },
       "fromOtherChain": {
         "0xAF984E23EAA3E7967F3C5E007fbe397D8566D23d": "0xBb14e7905c663B176Aa4FF02Fd4E3688722d5856",
@@ -294,7 +322,8 @@
         "0x6CD689DefCA80f9F2CBED9D0C6f3B2Cf4abc4598": "0xb65ca9a3e710970473fd45d4dddd7b8f1253ce28",
         "0xF0051fd4758147F1749D1696C9266d047B4c43Fa": "0xc073B33d58f8FCD4ba5e5463eB073FD62ce2220e",
         "0xff706ec9AF6C5C89059479c24068bCd8AaE8E1Fa": "0x1C3AD2a03940bE249846601Fd42edAF0c06825Ca",
-        "0xd8347e9078Ca7F41Ad017fD74B9b6396E6068d9b": "0x664e2c13e42fa0f03f227520813b9b3751f74232"
+        "0xd8347e9078Ca7F41Ad017fD74B9b6396E6068d9b": "0x664e2c13e42fa0f03f227520813b9b3751f74232",
+        "0x6ef238E9E8CD2A96740897761C18894Fc086B9d0": "0x3fd14bdF19574f9E5991Ee55C64100F2a9E9CB70"
       }
     },
     "defaultAsset": "0xAF984E23EAA3E7967F3C5E007fbe397D8566D23d"
